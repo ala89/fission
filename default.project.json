@@ -1,0 +1,24 @@
+{
+  "name": "fission",
+  "tree": {
+    "$className": "DataModel",
+
+    "ReplicatedStorage": {
+      "Fission": {
+        "$path": "src"
+      }
+    },
+
+    "StarterPlayer": {
+      "StarterPlayerScripts": {
+        "test": {
+          "$path": "test"
+        },
+
+        "demo": {
+          "$path": "demo"
+        }
+      }
+    }
+  }
+}
