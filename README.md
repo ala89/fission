@@ -19,3 +19,5 @@ Recursive updates are seamlessly supported, although we do not recommend to crea
 ### Acknowledgements
 
 This project was made to propose a fix to critical issues in the core algorithm of [Fusion](https://github.com/dphfox/Fusion) (see [here](https://github.com/dphfox/Fusion/issues/270) for more details). We stick to the API of Fusion v3 for compatibility reasons, with some additions.
+
+This is a group project, involving Nathan Bouvier and two other students, under the supervision of Alaric Patault.
